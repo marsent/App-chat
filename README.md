@@ -3,6 +3,7 @@
 ### Clone project
 ```
 git clone https://github.com/marsent/App-chat.git
+cd App-chat
 ```
 #### Goto Clien folder
 ```
